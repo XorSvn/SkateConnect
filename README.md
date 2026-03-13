@@ -28,31 +28,39 @@ El objetivo del proyecto es ofrecer una plataforma simple para organizar reserva
 
 🏗️ Tecnologías utilizadas
 -------------
-###Backend
-
+Backend
+----
 - Python
 - Flask
 - MySQL
 
-###Frontend
-
+Frontend
+----
 - HTML5
 - CSS3
 - JavaScript
 
-###Librerías
-
+Librerías
+----
 - ReportLab (generación de PDF) 
 
 ⚙️ Instalación
 -------------
-###Clonar el repositorio
+Clonar el repositorio
+----
+```javascript
+$ git clone https://github.com/ElHackerDaniel/SkateConnect.git
+```
 
-`$ git clone https://github.com/ElHackerDaniel/SkateConnect.git`
-`$ cd skateconnect`
+```javascript
+$ cd skateconnect
+```
 
-###Crear entorno virtual (opcional)
-`$ python -m venv venv`
+Crear entorno virtual (opcional)
+----
+```javascript
+$ python -m venv venv
+```
 
 Activarlo:
 
@@ -64,10 +72,14 @@ Linux / Mac
 
 `$ source venv/bin/activate`
 
-###Instalar dependencias
+Instalar dependencias
+----
+```javascript
+$ pip install flask mysql-connector-python reportlab
+```
 
-`$ pip install flask mysql-connector-python reportlab`
-###Configurar la base de datos
+Configurar la base de datos
+----
 Editar el archivo:
 
 `config/db_config.py`
@@ -82,7 +94,8 @@ user = "root"
 password = ""
 database = "skateconnect"
 ```
-###Ejecutar el proyecto
+Ejecutar el proyecto
+----
 `python app.py`
 
 Abrir en el navegador:
@@ -99,8 +112,8 @@ En esta parte podrias ir a ver las instructions.txt para el link https
 | Directorio     |  Visualiza reportes |
 | Usuario      | Realiza reservas y consulta historial |
 
-###📄 Generación de facturas
-
+📄 Generación de facturas
+-------------
 Cada reserva genera una factura en PDF que incluye:
 - ID de la reserva
 - Usuario
@@ -112,8 +125,9 @@ Cada reserva genera una factura en PDF que incluye:
 Las facturas se guardan en:
 
 `/facturas`
-###📌 Posibles mejoras futuras
 
+📌 Posibles mejoras futuras
+-------------
 - Pagos en línea
 - Notificaciones por correo
 - Calendario visual de reservas
@@ -121,5 +135,7 @@ Las facturas se guardan en:
 - API REST
 
 ###👨‍💻 Autor
+
 Proyecto desarrollado como parte de aprendizaje en desarrollo web con Python y bases de datos.
+
 Att: ElHackerDaniel
