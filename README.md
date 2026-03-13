@@ -142,4 +142,3 @@ Att: ElHackerDaniel
 
 Inicio
 ----
-![](https://github.com/ElHackerDaniel/SkateConnect/blob/3c495af385d5b612e9e06a7ee7e4a06b16a68fc7/inicio.png)
