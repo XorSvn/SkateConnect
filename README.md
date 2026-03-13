@@ -134,8 +134,8 @@ Las facturas se guardan en:
 - Panel de estadísticas
 - API REST
 
-###👨‍💻 Autor
-
+👨‍💻 Autor
+----
 Proyecto desarrollado como parte de aprendizaje en desarrollo web con Python y bases de datos.
 
 Att: ElHackerDaniel
