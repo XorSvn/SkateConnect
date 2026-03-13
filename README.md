@@ -144,3 +144,24 @@ Inicio
 ----
 <img width="1831" height="863" alt="inicio" src="https://github.com/user-attachments/assets/e2e25618-1285-493f-ba97-7796d35df531" />
 
+Panel de usuario
+----
+<img width="1832" height="863" alt="panel usuario" src="https://github.com/user-attachments/assets/6f8eade3-d295-4bc9-bbe4-a7040df0d4ff" />
+
+Historia de usuario
+----
+<img width="1827" height="862" alt="historial" src="https://github.com/user-attachments/assets/0dbb9277-f0a0-489e-9c84-be65390aaf7d" />
+
+Panel admin
+----
+<img width="1832" height="861" alt="Paneladmin" src="https://github.com/user-attachments/assets/8d250112-42c9-43b6-8b68-4b9bbe9f8419" />
+
+Panel director
+----
+<img width="1822" height="862" alt="Panel director" src="https://github.com/user-attachments/assets/695fdad2-f623-40cc-977a-5a743f05ee7c" />
+
+Informe director
+----
+![WhatsApp Image 2026-03-13 at 12 25 37 AM](https://github.com/user-attachments/assets/98eeac79-dc23-44a4-84d9-8c0f71e4c7eb)
+
+
