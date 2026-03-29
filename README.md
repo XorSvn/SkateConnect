@@ -49,33 +49,37 @@ Librerías
 Clonar el repositorio
 ----
 ```javascript
-$ git clone https://github.com/ElHackerDaniel/SkateConnect.git
+git clone https://github.com/ElHackerDaniel/SkateConnect.git
 ```
 
 ```javascript
-$ cd skateconnect
+cd skateconnect
 ```
 
 Crear entorno virtual (opcional)
 ----
 ```javascript
-$ python -m venv venv
+python -m venv venv
 ```
 
 Activarlo:
 
 Windows
 
-`$ venv\Scripts\activate`
+`venv\Scripts\activate`
+
+CMD
+
+`venv\Scripts\activate.bat`
 
 Linux / Mac
 
-`$ source venv/bin/activate`
+`source venv/bin/activate`
 
 Instalar dependencias
 ----
 ```javascript
-$ pip install flask mysql-connector-python reportlab
+pip install flask mysql-connector-python reportlab
 ```
 
 Configurar la base de datos
