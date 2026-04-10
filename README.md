@@ -142,7 +142,7 @@ Las facturas se guardan en:
 ----
 Proyecto desarrollado como parte de aprendizaje en desarrollo web con Python y bases de datos.
 
-Att: ElHackerDaniel
+Att: XorSvn
 
 Inicio
 ----
